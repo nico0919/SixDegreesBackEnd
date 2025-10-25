@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "_1.Servicios.Controllers.EmpleadoController",
+    "Method": "ObtenerTodosEmeplados",
+    "RelativePath": "api/Empleado/ObtenerEmpleados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.AssemblyInfo.cs
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\bin\Debug\net8.0\3.AccesoDatos.deps.json
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\bin\Debug\net8.0\3.AccesoDatos.dll
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\bin\Debug\net8.0\3.AccesoDatos.pdb
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\bin\Debug\net8.0\4.Entidades.dll
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\bin\Debug\net8.0\4.Entidades.pdb
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.Acceso.1577C23C.Up2Date
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.dll
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\refint\3.AccesoDatos.dll
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\3.AccesoDatos.pdb
+C:\Users\cuadr\source\repos\PruebaTecnicaNC\3.AccesoDatos\obj\Debug\net8.0\ref\3.AccesoDatos.dll
